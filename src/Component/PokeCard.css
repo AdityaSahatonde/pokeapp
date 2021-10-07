@@ -1,0 +1,7 @@
+.PokeCell{
+    height: 120px;
+    width: 120px;
+    border: 1px black solid;
+    background-color: #FEF1E6;
+    padding-top: 10px;
+}

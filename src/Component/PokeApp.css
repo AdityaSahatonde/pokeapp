@@ -1,0 +1,19 @@
+.PokeApp{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    /* width: 700px; */
+    height: 100vh;
+    
+}
+.ColSize{
+    width: 500px;
+    height: 418px;
+    /* overflow-y: scroll; */
+}
+h1{
+    position: absolute;
+    top:15px;
+    left:270px;
+    font-family:Arial, Helvetica, sans-serif;
+}
