@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pokeapp/static/css/main.2ca6070d.chunk.css",
+    "main.js": "/pokeapp/static/js/main.1da12c45.chunk.js",
+    "main.js.map": "/pokeapp/static/js/main.1da12c45.chunk.js.map",
+    "runtime-main.js": "/pokeapp/static/js/runtime-main.1aa8ff48.js",
+    "runtime-main.js.map": "/pokeapp/static/js/runtime-main.1aa8ff48.js.map",
+    "static/js/2.50d83410.chunk.js": "/pokeapp/static/js/2.50d83410.chunk.js",
+    "static/js/2.50d83410.chunk.js.map": "/pokeapp/static/js/2.50d83410.chunk.js.map",
+    "static/js/3.b280e996.chunk.js": "/pokeapp/static/js/3.b280e996.chunk.js",
+    "static/js/3.b280e996.chunk.js.map": "/pokeapp/static/js/3.b280e996.chunk.js.map",
+    "index.html": "/pokeapp/index.html",
+    "static/css/main.2ca6070d.chunk.css.map": "/pokeapp/static/css/main.2ca6070d.chunk.css.map",
+    "static/js/2.50d83410.chunk.js.LICENSE.txt": "/pokeapp/static/js/2.50d83410.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aa8ff48.js",
+    "static/js/2.50d83410.chunk.js",
+    "static/css/main.2ca6070d.chunk.css",
+    "static/js/main.1da12c45.chunk.js"
+  ]
+}
